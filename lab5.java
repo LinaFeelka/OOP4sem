@@ -17,6 +17,7 @@ public class lab5 {
         } 
 
         printMessage("Вывод метода printMessage!");
+        scanner.close();
     }
 
     public static int sum(int a, int b) {
